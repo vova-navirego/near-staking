@@ -1,0 +1,11 @@
+{
+  "description": "Verify any account if it has IAH",
+  "image": {
+    "ipfs_cid": "bafkreifcjr7ffo7e6orkgxvs2ms7avdxm4ysejfvngzidd2qfmlmfjv42y"
+  },
+  "name": "IAH Account Verifier",
+  "tags": {
+    "iah": "",
+    "community": ""
+  }
+}
